@@ -47,7 +47,7 @@ research_interests:
 ---
 
 <!-- ===================== SKILLS ===================== -->
-<h1 align="center"> ⚔️ Currently Learning & Practicing </h1>
+<h1 align="center"> 📚 Currently Learning & Practicing </h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50"/>
